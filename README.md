@@ -1,7 +1,7 @@
 # Projeto 2 - Extração de Metadados
 
-Aluno: Gabriel Da Silva Gutierres 
-RA: 2171392511017
+Aluno: Guilherme Gomes da Silva
+RA: 2171392511043
 
 ## Descrição
 Este projeto em Node.js lê um arquivo `.md` contendo referências técnicas e extrai os links utilizando Expressões Regulares. O sistema organiza e exibe as referências no console de forma estruturada.
